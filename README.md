@@ -1,2 +1,2 @@
-# Food-Delivery-Website
-This is food delivery website for hackethon Competition held on 10th of june 2023
+#PYTHON QUESTIONS PRACTICE 
+This is a repositery containing practice questions with their answers from codebasics 
